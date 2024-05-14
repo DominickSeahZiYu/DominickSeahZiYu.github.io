@@ -10,7 +10,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: hobbies.qmd
+        text: Hobbies
+      - href: fyp.qmd
+        text: Projects
 
 format:
   html:
