@@ -4,7 +4,7 @@ title: "Home Page"
 
 # Welcome to My Website
 
-![A photo of me](/Users/dominick/Downloads/StudentID.jpeg)
+![A photo of me](/Users/dominick/Documents/DominickSeahZiYu.github.io/images/StudentID.jpeg)
 
 Hello! I'm Dominick. I specialize in AI in Computer Science. This website showcases my projects, publications, and thoughts on various topics related to AI and software engineering.
 

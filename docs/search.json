@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home Page",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "A photo of me\n\n\nHello! I’m Dominick. I specialize in AI in Computer Science. This website showcases my projects, publications, and thoughts on various topics related to AI and software engineering.\n\n\nI graduated from SIT with a degree in Applied AI, and I have worked on projects related to data analytics and data science. In my free time, I enjoy combat sports.\nTo learn more about what I do, check out the projects and blog sections!\n\n\n\nFeel free to reach out via email at dominickseah@gmail.com.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,89 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home Page",
+    "section": "",
+    "text": "I graduated from SIT with a degree in Applied AI, and I have worked on projects related to data analytics and data science. In my free time, I enjoy combat sports.\nTo learn more about what I do, check out the projects and blog sections!"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home Page",
+    "section": "",
+    "text": "Feel free to reach out via email at dominickseah@gmail.com.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "fyp.html",
+    "href": "fyp.html",
+    "title": "Cloud Computing Projects",
+    "section": "",
+    "text": "I have been involved in several projects that leverage the power of cloud computing to solve complex problems, improve efficiency, and scale operations. Below are some highlights of my work in this exciting field.\n\n\n\n\n\nTo develop a scalable web application capable of handling high traffic volumes without performance degradation.\n\n\n\n\nAWS Elastic Compute Cloud (EC2)\nAWS RDS for database management\nElastic Load Balancing\n\n\n\n\nSuccessfully deployed a web application that scaled automatically based on traffic, reducing operational costs and maintaining high availability.\n\n\n\n\n\n\nImplement a cloud-based data analytics platform to process and analyze large datasets from various sources.\n\n\n\n\nGoogle Cloud Platform (GCP)\nBigQuery\nDataflow\n\n\n\n\nCreated a highly efficient data processing pipeline that provides real-time analytics insights, enhancing decision-making processes for our clients.\n\n\n\n\n\n\nDesign a disaster recovery plan that utilizes cloud technology to ensure data integrity and system availability across geographic locations.\n\n\n\n\nMicrosoft Azure\nAzure Site Recovery\nAzure Backup\n\n\n\n\nDeveloped a robust disaster recovery system that offers minimal downtime and data loss in the event of a disaster, significantly enhancing data security and business continuity.\n\n\n\n\nI am continually exploring new technologies in cloud computing to expand my expertise and contribute to innovative projects that challenge the status quo and push technological boundaries."
+  },
+  {
+    "objectID": "fyp.html#project-overview",
+    "href": "fyp.html#project-overview",
+    "title": "Cloud Computing Projects",
+    "section": "",
+    "text": "I have been involved in several projects that leverage the power of cloud computing to solve complex problems, improve efficiency, and scale operations. Below are some highlights of my work in this exciting field."
+  },
+  {
+    "objectID": "fyp.html#project-1-scalable-web-application-deployment",
+    "href": "fyp.html#project-1-scalable-web-application-deployment",
+    "title": "Cloud Computing Projects",
+    "section": "",
+    "text": "To develop a scalable web application capable of handling high traffic volumes without performance degradation.\n\n\n\n\nAWS Elastic Compute Cloud (EC2)\nAWS RDS for database management\nElastic Load Balancing\n\n\n\n\nSuccessfully deployed a web application that scaled automatically based on traffic, reducing operational costs and maintaining high availability."
+  },
+  {
+    "objectID": "fyp.html#project-2-cloud-based-data-analytics",
+    "href": "fyp.html#project-2-cloud-based-data-analytics",
+    "title": "Cloud Computing Projects",
+    "section": "",
+    "text": "Implement a cloud-based data analytics platform to process and analyze large datasets from various sources.\n\n\n\n\nGoogle Cloud Platform (GCP)\nBigQuery\nDataflow\n\n\n\n\nCreated a highly efficient data processing pipeline that provides real-time analytics insights, enhancing decision-making processes for our clients."
+  },
+  {
+    "objectID": "fyp.html#project-3-disaster-recovery-setup",
+    "href": "fyp.html#project-3-disaster-recovery-setup",
+    "title": "Cloud Computing Projects",
+    "section": "",
+    "text": "Design a disaster recovery plan that utilizes cloud technology to ensure data integrity and system availability across geographic locations.\n\n\n\n\nMicrosoft Azure\nAzure Site Recovery\nAzure Backup\n\n\n\n\nDeveloped a robust disaster recovery system that offers minimal downtime and data loss in the event of a disaster, significantly enhancing data security and business continuity."
+  },
+  {
+    "objectID": "fyp.html#future-directions",
+    "href": "fyp.html#future-directions",
+    "title": "Cloud Computing Projects",
+    "section": "",
+    "text": "I am continually exploring new technologies in cloud computing to expand my expertise and contribute to innovative projects that challenge the status quo and push technological boundaries."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Muay Thai, often referred to as “The Art of Eight Limbs”, is not just a sport for me but a crucial part of my lifestyle. It incorporates punches, kicks, elbows, and knee strikes, making it a very efficient martial art.\n\n\nLast year, I had the incredible opportunity to travel to Thailand, the birthplace of Muay Thai, for an intensive training session. I spent a month in a training camp in Krabi, immersing myself in the daily life of a Muay Thai fighter.\n\n\n\nGym View\n\n\nThe experience was transformative, allowing me to not only improve my techniques but also gain a deeper understanding of the Thai culture and its people.\n\n\n\n\nTraveling enriches my life in many ways, from experiencing new cultures to meeting people from diverse backgrounds. Training in Thailand was one of the many journeys that have impacted my life significantly.\n\n\nApart from training, I explored local markets, temples, and the vibrant street life in Krabi. Each place I visited told a story of its own, brimming with history, flavor, and color.\n\n\n\n\nEngaging in Muay Thai and traveling are not just hobbies; they are part of who I am. They teach me discipline, respect, and the joy of discovery, which I apply in every aspect of my life."
+  },
+  {
+    "objectID": "hobbies.html#muay-thai",
+    "href": "hobbies.html#muay-thai",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Muay Thai, often referred to as “The Art of Eight Limbs”, is not just a sport for me but a crucial part of my lifestyle. It incorporates punches, kicks, elbows, and knee strikes, making it a very efficient martial art.\n\n\nLast year, I had the incredible opportunity to travel to Thailand, the birthplace of Muay Thai, for an intensive training session. I spent a month in a training camp in Krabi, immersing myself in the daily life of a Muay Thai fighter.\n\n\n\nGym View\n\n\nThe experience was transformative, allowing me to not only improve my techniques but also gain a deeper understanding of the Thai culture and its people."
+  },
+  {
+    "objectID": "hobbies.html#travel",
+    "href": "hobbies.html#travel",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Traveling enriches my life in many ways, from experiencing new cultures to meeting people from diverse backgrounds. Training in Thailand was one of the many journeys that have impacted my life significantly.\n\n\nApart from training, I explored local markets, temples, and the vibrant street life in Krabi. Each place I visited told a story of its own, brimming with history, flavor, and color."
+  },
+  {
+    "objectID": "hobbies.html#why-i-love-what-i-do",
+    "href": "hobbies.html#why-i-love-what-i-do",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Engaging in Muay Thai and traveling are not just hobbies; they are part of who I am. They teach me discipline, respect, and the joy of discovery, which I apply in every aspect of my life."
   }
 ]
