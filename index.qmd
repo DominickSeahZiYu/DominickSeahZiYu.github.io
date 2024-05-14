@@ -1,11 +1,25 @@
 ---
-title: "temp_website"
+title: "Home Page"
 ---
 
-This is a Quarto website.
+# Welcome to My Website
+
+![A photo of me](/Users/dominick/Downloads/StudentID.jpeg)
+
+Hello! I'm Dominick. I specialize in AI in Computer Science. This website showcases my projects, publications, and thoughts on various topics related to AI and software engineering.
+
+## About Me
+
+I graduated from SIT with a degree in Applied AI, and I have worked on projects related to data analytics and data science. In my free time, I enjoy combat sports.
+
+To learn more about what I do, check out the projects and blog sections!
+
+## Contact
+
+Feel free to reach out via email at dominickseah@gmail.com.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
+# Simple R code example
 1 + 1
-```

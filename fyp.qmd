@@ -1,0 +1,53 @@
+---
+title: "Cloud Computing Projects"
+---
+
+# Cloud Computing Projects
+
+## Project Overview
+
+I have been involved in several projects that leverage the power of cloud computing to solve complex problems, improve efficiency, and scale operations. Below are some highlights of my work in this exciting field.
+
+## Project 1: Scalable Web Application Deployment
+
+### Objective
+To develop a scalable web application capable of handling high traffic volumes without performance degradation.
+
+### Technologies Used
+- AWS Elastic Compute Cloud (EC2)
+- AWS RDS for database management
+- Elastic Load Balancing
+
+### Outcome
+Successfully deployed a web application that scaled automatically based on traffic, reducing operational costs and maintaining high availability.
+
+## Project 2: Cloud-Based Data Analytics
+
+### Objective
+Implement a cloud-based data analytics platform to process and analyze large datasets from various sources.
+
+### Technologies Used
+- Google Cloud Platform (GCP)
+- BigQuery
+- Dataflow
+
+### Outcome
+Created a highly efficient data processing pipeline that provides real-time analytics insights, enhancing decision-making processes for our clients.
+
+## Project 3: Disaster Recovery Setup
+
+### Objective
+Design a disaster recovery plan that utilizes cloud technology to ensure data integrity and system availability across geographic locations.
+
+### Technologies Used
+- Microsoft Azure
+- Azure Site Recovery
+- Azure Backup
+
+### Outcome
+Developed a robust disaster recovery system that offers minimal downtime and data loss in the event of a disaster, significantly enhancing data security and business continuity.
+
+## Future Directions
+
+I am continually exploring new technologies in cloud computing to expand my expertise and contribute to innovative projects that challenge the status quo and push technological boundaries.
+
